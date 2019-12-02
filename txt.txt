@@ -1,0 +1,5 @@
+https://pivotalcontent.s3.amazonaws.com/training/training-briefs/Pivotal_EDU_CoreSpring_TrainingBrief.pdf
+https://spring.io/services
+https://www.javatpoint.com/spring-modules
+https://www.tutorialspoint.com/index.htm
+https://stackjava.com/category/spring-mvc
